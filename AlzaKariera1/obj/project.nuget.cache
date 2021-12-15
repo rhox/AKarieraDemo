@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GFmqIiYVpzy8o7ighGKScO6dVNgnaZK+xSn15DNZRTCnAKAZy06VHwjsQ278YjgJL7oDcUa+6FuFWLvFSDseTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKarieraDemo\\AlzaKariera1\\AlzaKariera.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\bin\Debug\netcoreapp3.1\AlzaKariera.exe
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\bin\Debug\netcoreapp3.1\AlzaKariera.deps.json
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\bin\Debug\netcoreapp3.1\AlzaKariera.runtimeconfig.json
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\bin\Debug\netcoreapp3.1\AlzaKariera.runtimeconfig.dev.json
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\bin\Debug\netcoreapp3.1\AlzaKariera.dll
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\bin\Debug\netcoreapp3.1\AlzaKariera.pdb
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\obj\Debug\netcoreapp3.1\AlzaKariera.csproj.AssemblyReference.cache
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\obj\Debug\netcoreapp3.1\AlzaKariera.AssemblyInfoInputs.cache
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\obj\Debug\netcoreapp3.1\AlzaKariera.AssemblyInfo.cs
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\obj\Debug\netcoreapp3.1\AlzaKariera.csproj.CoreCompileInputs.cache
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\obj\Debug\netcoreapp3.1\AlzaKariera.dll
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\obj\Debug\netcoreapp3.1\AlzaKariera.pdb
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1\obj\Debug\netcoreapp3.1\AlzaKariera.genruntimeconfig.cache

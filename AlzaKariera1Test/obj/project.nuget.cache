@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQZmZ35SPIisbLXv5Qnoafy8qS1Oh0m8V3kDg8vXEOunWXJ91MAdQSdOIsWhzMlSmo5aJAjRym5rJqSfz5OsKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKarieraDemo\\AlzaKariera1Test\\AlzaKarieraTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

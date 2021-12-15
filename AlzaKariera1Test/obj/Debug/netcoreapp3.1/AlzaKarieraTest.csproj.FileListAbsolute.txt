@@ -1,0 +1,15 @@
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\bin\Debug\netcoreapp3.1\AlzaKarieraTest.deps.json
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\bin\Debug\netcoreapp3.1\AlzaKarieraTest.dll
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\bin\Debug\netcoreapp3.1\AlzaKarieraTest.pdb
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\obj\Debug\netcoreapp3.1\AlzaKarieraTest.csproj.AssemblyReference.cache
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\obj\Debug\netcoreapp3.1\AlzaKarieraTest.AssemblyInfoInputs.cache
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\obj\Debug\netcoreapp3.1\AlzaKarieraTest.AssemblyInfo.cs
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\obj\Debug\netcoreapp3.1\AlzaKarieraTest.csproj.CoreCompileInputs.cache
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\obj\Debug\netcoreapp3.1\AlzaKarieraTest.dll
+C:\Users\jakub.holomek\Automation\Alza\AlzaKarieraDemo\AlzaKariera1Test\obj\Debug\netcoreapp3.1\AlzaKarieraTest.pdb
