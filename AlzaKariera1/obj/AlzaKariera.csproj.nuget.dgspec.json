@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKarieraDemo\\AlzaKariera1\\AlzaKariera.csproj": {}
+    "c:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKariera\\AlzaKariera1\\AlzaKariera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKarieraDemo\\AlzaKariera1\\AlzaKariera.csproj": {
+    "c:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKariera\\AlzaKariera1\\AlzaKariera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKarieraDemo\\AlzaKariera1\\AlzaKariera.csproj",
+        "projectUniqueName": "c:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKariera\\AlzaKariera1\\AlzaKariera.csproj",
         "projectName": "AlzaKariera",
-        "projectPath": "C:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKarieraDemo\\AlzaKariera1\\AlzaKariera.csproj",
+        "projectPath": "c:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKariera\\AlzaKariera1\\AlzaKariera.csproj",
         "packagesPath": "C:\\Users\\jakub.holomek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKarieraDemo\\AlzaKariera1\\obj\\",
+        "outputPath": "c:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKariera\\AlzaKariera1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jakub.holomek\\AppData\\Roaming\\NuGet\\NuGet.Config",
