@@ -1,4 +1,3 @@
-using System;
 using System.Configuration;
 using System.IO;
 using System.Reflection;
@@ -7,7 +6,7 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace AlzaDemo
+namespace AlzaDemo.Tests
 {
     [TestFixture]
     public class Tests
@@ -25,7 +24,7 @@ namespace AlzaDemo
         {
             driver.Url = ConfigurationManager.AppSettings["SutUrl"];
             var mainPage = new MainPage(driver);
-            TakeScreenshot();
+
             mainPage.FindPosition("Quality assurance");
             var groupPositionPage = mainPage.NavigateToPositionGroup();
 
@@ -36,23 +35,18 @@ namespace AlzaDemo
                 positionPage.NavigateBack();
             }
 
-            TakeScreenshot();
         }
 
 
         [TearDown]
         public void Close()
-        {
+        { 
+            Helpful.TakeScreenshot(driver);
             driver.Close();
+            driver.Quit();
         }
 
 
-        public void TakeScreenshot()
-        {
-            Screenshot ss = ((ITakesScreenshot)driver).GetScreenshot();
-            ss.SaveAsFile(ConfigurationManager.AppSettings["ScreenshotPath"] + DateTime.Now.ToString("yyyy-MM-dd-HH_mm_ss") + ".jpg", ScreenshotImageFormat.Png);
 
-            //For fullpage screenshot will be necessart
-        }
     }
 }

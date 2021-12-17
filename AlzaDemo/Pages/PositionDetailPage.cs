@@ -6,7 +6,7 @@ using SeleniumExtras.PageObjects;
 
 namespace AlzaDemo.Pages
 {
-    class PositionDetailPage
+    public class PositionDetailPage
     {
         private IWebDriver driver;
         private readonly Dictionary<string, string> listOfPeople = new Dictionary<string, string>

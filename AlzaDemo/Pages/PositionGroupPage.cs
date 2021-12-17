@@ -4,7 +4,7 @@ using SeleniumExtras.PageObjects;
 
 namespace AlzaDemo.Pages
 {
-    class PositionGroupPage
+    public class PositionGroupPage
     {
         private IWebDriver driver;
 

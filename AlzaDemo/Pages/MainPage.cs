@@ -5,7 +5,7 @@ using SeleniumExtras.PageObjects;
 
 namespace AlzaDemo.Pages
 {
-    class MainPage
+    public class MainPage
     {
         private IWebDriver driver;
 
