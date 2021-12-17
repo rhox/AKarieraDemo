@@ -22,7 +22,7 @@ namespace TestProject1
         public void Test1()
         {
             driver.Url = "https://www.alza.cz/kariera"; 
-            //var value = ConfigurationManager.AppSettings["SutUrl"];
+            var value = ConfigurationManager.AppSettings["SutUrl"];
         }
 
 

@@ -111,3 +111,4 @@ c:\Users\jakub.holomek\Automation\Alza\AlzaKariera\TestProject1\obj\Debug\netcor
 c:\Users\jakub.holomek\Automation\Alza\AlzaKariera\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.pdb
 c:\Users\jakub.holomek\Automation\Alza\AlzaKariera\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.genruntimeconfig.cache
 c:\Users\jakub.holomek\Automation\Alza\AlzaKariera\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.csproj.AssemblyReference.cache
+c:\Users\jakub.holomek\Automation\Alza\AlzaKariera\TestProject1\bin\Debug\netcoreapp3.1\SeleniumExtras.PageObjects.dll

@@ -8,13 +8,17 @@
 
   <ItemGroup>
     <Compile Remove="UnitTest1.cs" />
+    <Compile Remove="UnitTestRemote.cs" />
   </ItemGroup>
 
 	<ItemGroup>
+    <None Include="UnitTestRemote.cs" />
     <None Include="UnitTest1.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects" Version="3.11.0" />
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core" Version="4.0.1" />
     <PackageReference Include="NUnit" Version="3.13.2" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
     <PackageReference Include="NUnit3TestAdapter" Version="4.1.0" />

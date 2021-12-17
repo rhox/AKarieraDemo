@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OO2vurJLRFj9lBFtyBcQmnS7hGbto3k4JSvphty+YHRWIKMkLXXLofBunZT+SeUSv8un28hlywUY9+W/4xVfIw==",
+  "dgSpecHash": "UZE6kNuqFHAxce8wGOmfinpBAiZP/Nrw9M+NnxSaib4FAxIGcyQh3eLtA7Oq7a5BEYNpWn+FZWCqm1gIEnqBNg==",
   "success": true,
   "projectFilePath": "c:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKariera\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\jakub.holomek\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.0.1\\dotnetseleniumextras.pageobjects.core.4.0.1.nupkg.sha512",
     "C:\\Users\\jakub.holomek\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\jakub.holomek\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
     "C:\\Users\\jakub.holomek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
