@@ -24,6 +24,9 @@ namespace AlzaDemo.Pages
             this.driver.Manage().Timeouts().ImplicitWait = new TimeSpan(0, 0, 5);
             }
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void VerifyDefaultState()
         {
             Assert.IsTrue(driver.FindElement(By.XPath("//alza-article-body//span[1]")).Text != null, "Description of role is empty");

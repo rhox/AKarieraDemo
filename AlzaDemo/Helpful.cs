@@ -8,6 +8,10 @@ namespace AlzaDemo
 {
     public class Helpful
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="driver"></param>
         public static void TakeScreenshot(IWebDriver driver)
         {
             Screenshot ss = ((ITakesScreenshot)driver).GetScreenshot();

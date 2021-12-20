@@ -16,19 +16,30 @@ namespace AlzaDemo.Pages
         {
             this.driver = driver;
             PageFactory.InitElements(driver, this);
-            this.driver.Manage().Timeouts().ImplicitWait = new TimeSpan(0,0,5);
+            this.driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         public void GotoPage()
         {
             driver.Navigate().GoToUrl(ConfigurationManager.AppSettings["SutUrl"]);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="positionName"></param>
         public void FindPosition(string positionName)
         {
             SearchEditBox.SendKeys(positionName);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public PositionGroupPage NavigateToPositionGroup()
         {
             driver.FindElement(By.XPath("//a[@href='/kariera/pozice/quality-assurance']")).Click();

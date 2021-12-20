@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tjRO3t7Rm0KCEqkbFn+Dr/uIOVUA0t96ogCcZZIvyavCDBKT5To0byne/tqYYmh1PMw29miMKlCpefvSLjcK4Q==",
+  "dgSpecHash": "ry9YSo38YScAujbM5R5Of6MoKyous54dCVbOgJoqjO+hJAkJlZltfXmRfG2XTStpYt9glGiOlHPl6i0paqosCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKariera\\AlzaDemo\\AlzaDemo.csproj",
+  "projectFilePath": "c:\\Users\\jakub.holomek\\Automation\\Alza\\AlzaKariera\\AlzaDemo\\AlzaDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jakub.holomek\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
     "C:\\Users\\jakub.holomek\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.0.1\\dotnetseleniumextras.pageobjects.core.4.0.1.nupkg.sha512",

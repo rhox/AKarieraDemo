@@ -14,13 +14,21 @@ namespace AlzaDemo.Pages
             PageFactory.InitElements(driver, this);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public int ReturnPositionsCount()
         {
             System.Threading.Thread.Sleep(2000);
             return new List<IWebElement>(driver.FindElements(By.XPath("//a[@class='row ng-star-inserted']"))).Count;
         }
 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="i"></param>
+        /// <returns></returns>
         public PositionDetailPage OpenPositionOnIndex(int i)
         {
             driver.FindElements(By.XPath("//a[@class='row ng-star-inserted']"))[i].Click();
